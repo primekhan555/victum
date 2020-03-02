@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "989327458033",
+    "firebase_url": "https://victum-3cc9c.firebaseio.com",
+    "project_id": "victum-3cc9c",
+    "storage_bucket": "victum-3cc9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989327458033:android:f86a254803871548df7350",
+        "android_client_info": {
+          "package_name": "com.victum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989327458033-ct8p598a9gumjjuci3a7m3mt1p06mevn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWVUx7RZDpGb23OD58rKnHptcew37wfWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989327458033-ct8p598a9gumjjuci3a7m3mt1p06mevn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
